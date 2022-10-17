@@ -1,9 +1,9 @@
 #include <stdio.h>
 /*
  *
- *main - Serves as the entry point for the program
+ * main - Prints a line of code using puts
  *
- *Return: By default returns zero if no erros otherwise returns non-zero value.
+ * Return: By default returns zero if no erros otherwise returns non-zero value.
 */
 int main(void)
 {
