@@ -1,8 +1,9 @@
 #include <stdio.h>
 /*
- *
  *main - Prints a line of code using puts
  *
+ *Description: 'the program's description'
+ * 
  *Return: By default returns zero if no erros otherwise returns non-zero value.
 */
 int main(void)
