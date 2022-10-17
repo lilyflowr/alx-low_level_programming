@@ -1,4 +1,4 @@
-/**
+/*
  * main - entry point for the program.
  * 
  * Description: 'enabling easy programing'
