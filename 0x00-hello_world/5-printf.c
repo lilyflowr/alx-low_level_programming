@@ -1,9 +1,9 @@
 /**
- * main - Serves as the entry point for the program
+ * main - entry point for the program.
  * 
  * Description: 'enabling easy programing'
  * 
- * Return: Always 0 (Success)
+ * Return:0 if no errors, return non zero if errors
  */
 int main(void)
 {
