@@ -6,7 +6,7 @@
  *Return: By default returns zero if no erros otherwise returns non-zero value.
 */
 int main() {
-    printf("with proper grammar,but the outcome is a piece of art,");
+    printf("with proper grammar, but the outcome is a piece of art,");
 
     return 0;
 }
