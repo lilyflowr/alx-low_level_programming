@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- *main - emtry point for the program
- *return: 0 if no errors,return n
+ *main - entry point for the program
+ *return: 0 if no errors,return non
 */
 
 int main() {
-    printf("with proper grammar, but the outcome is a piece of art,,");
+    printf("with proper grammar, but the outcome is a piece of art,");
 
     return 0;
 }
