@@ -8,13 +8,13 @@ for (i = 'a'; i <= 'z'; i++)_putchar(i);#include <stdio.h>
  */
 int main(void)
 {
-	char i,k;
+	char la,k;
 
 	for (k = 0; k < 10; k++)
 	{
-	for (i = 'a'; i <= 'z'; i++)
+	for (la = 'a'; la <= 'z'; la++)
 	{
-	_putchar(i);
+	_putchar(la);
 	}
 	_putchar('\n');
 	}
