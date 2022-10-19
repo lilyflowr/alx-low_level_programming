@@ -1,4 +1,4 @@
-#include <stdio.h>
+for (i = 'a'; i <= 'z'; i++)_putchar(i);#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
@@ -8,12 +8,14 @@
  */
 int main(void)
 {
-	char i;
+	char i,k;
 
+	for (k = 0; k < 10; k++)
+	{
 	for (i = 'a'; i <= 'z'; i++)
 	{
-		putchar(i);
+	_putchar(i);
 	}
-	putchar('\n');
-	return (0);
+	_putchar('\n');
+	}
 }
