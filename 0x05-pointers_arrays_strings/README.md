@@ -1,1 +1,1 @@
-this file contains exercises on pointers and arrays
+# This file contains exercises on pointers and arrays
