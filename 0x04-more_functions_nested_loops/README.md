@@ -1,1 +1,1 @@
-who de check
+Tasks on more functions nested loops
