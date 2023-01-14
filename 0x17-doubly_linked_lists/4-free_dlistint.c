@@ -1,12 +1,12 @@
 #include "lists.h"
 
 /**
- *  * free_dlistint - frees all nodes in a linked list
- *   *
- *    * @head: a pointer to the head of the linked list
- *     *
- *      * Return: nothing!
- *       */
+ * free_dlistint - frees all nodes in a linked list
+ *
+ * @head: a pointer to the head of the linked list
+ *
+ * Return: nothing!
+ */
 void free_dlistint(node *head)
 {
 	node *tail, *temp;

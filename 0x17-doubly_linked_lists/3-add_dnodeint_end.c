@@ -1,12 +1,12 @@
 #include "lists.h"
 
 /**
- *  * add_dnodeint_end - adds a new node to the end of a
- *   *		linked list
- *    * @head: a pointer to the head of the list
- *     * @n: an integer
- *      * Return: the new node or NULL if it failed
- *       */
+ * add_dnodeint_end - adds a new node to the end of a
+ *		linked list
+ * @head: a pointer to the head of the list
+ * @n: an integer
+ * Return: the new node or NULL if it failed
+ */
 node *add_dnodeint_end(node **head, const int n)
 {
 	node *tail, *new;

@@ -1,13 +1,13 @@
 #include "lists.h"
 
 /**
- *  * sum_dlistint - returns the sum of all the data (n)
- *   * of a linked list
- *    *
- *     * @head: the head of the linked list.
- *      *
- *       * Return: the sum of all the data in the linked list
- *        */
+ * sum_dlistint - returns the sum of all the data (n)
+ * of a linked list
+ *
+ * @head: the head of the linked list.
+ *
+ * Return: the sum of all the data in the linked list
+ */
 int sum_dlistint(node *head)
 {
 	node *temp = head;
